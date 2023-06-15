@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayushi</h1>
 <h3 align="center">A passionate Computer Science student from India</h3>
-<img align="right" alt="Coding" width="260" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="Coding" width="160" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushibongirwar&label=Profile%20views&color=0e75b6&style=flat" alt="ayushibongirwar" /> </p>
 
