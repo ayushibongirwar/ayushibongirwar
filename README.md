@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushibongirwar" alt="ayushibongirwar" /></a> </p>
 
-- 🌱 I’m currently learning **React, Javascript, nodejs**
+- 🌱 I’m currently learning **Machine Learning & Web Development**
 
 - 👨‍💻 All of my projects are available at [ayushibongirwar.github.io/My-Portfolio/](ayushibongirwar.github.io/My-Portfolio/)
 
